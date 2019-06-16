@@ -328,3 +328,48 @@
   .example.example5 .success .reset path {
     fill: #fff;
   }
+
+  @media screen and (max-width: 1400px) {
+    .example.example5 {
+      background-color: #9169d8;
+      position: absolute;
+      left: 27%;
+      border: 1px solid #b5a4ed;
+      border-radius: 6px;
+    }
+  }
+
+
+
+  @media screen and (max-width: 1280px) {
+    .example.example5 {
+      background-color: #9169d8;
+      position: absolute;
+      left: 30%;
+      border: 1px solid #b5a4ed;
+      border-radius: 6px;
+    }
+  }
+
+  @media screen and (max-width: 1024px) {
+    .example.example5 {
+      background-color: #9169d8;
+      position: absolute;
+      left: 25%;
+      border: 1px solid #b5a4ed;
+      border-radius: 6px;
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    .example.example5 {
+      background-color: #9169d8;
+      position: absolute;
+      left: 0%;
+      border: 1px solid #b5a4ed;
+      border-radius: 6px;
+    }
+  }
+
+  
+  
