@@ -11,7 +11,7 @@
   }
   
   body {
-    background: #424770;
+    background: #fff;
     display: flex;
     align-items: center;
     min-height: 100%;
@@ -145,6 +145,10 @@
 
   .example.example5 {
     background-color: #9169d8;
+    position: absolute;
+    left: 37.5%;
+    border: 1px solid #b5a4ed;
+    border-radius: 6px;
   }
   
   .example.example5 * {
