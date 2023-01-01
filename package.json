@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@devery/devery": "^0.1.25"
+    "@devery/devery": "^0.1.99"
   }
 }
